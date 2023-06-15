@@ -1,1 +1,1 @@
-print("mwqqe")
+print("nichf")
