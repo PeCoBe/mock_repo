@@ -1,2 +1,2 @@
 print("nichf")
-print("bbwcn")
+print("niuug")
