@@ -1,2 +1,2 @@
 print("nichf")
-print("inxsm")
+print("glosy")
