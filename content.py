@@ -1,2 +1,2 @@
 print("urkfs")
-print("layog")
+print("ooaal")
